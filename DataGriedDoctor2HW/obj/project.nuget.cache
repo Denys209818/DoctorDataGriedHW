@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YHmAmWwZjJuPG4dS6Eqv4eVRlnaOmg2HUjDpcSk1ZgHGKuJuBTqpC7KvoVKipKL5/l/41TPAg/8vFM8oMeByKQ==",
+  "dgSpecHash": "DtzFs/OCOskUi9O4P2fWarLHVG6mWrf67D+JN422xfRZgz6eDd9om0ItvryQGmfYp6rXsNfckk17LosGqYU5Cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Denis\\Desktop\\Новая папка C#\\DataGriedDoctor2HW\\DataGriedDoctor2HW\\DataGriedDoctor2HW.csproj",
+  "projectFilePath": "D:\\github\\DoctorDataGriedHW\\DataGriedDoctor2HW\\DataGriedDoctor2HW.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Denis\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Denis\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

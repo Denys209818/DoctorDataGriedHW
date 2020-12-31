@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Denis\\Desktop\\Новая папка C#\\DataGriedDoctor2HW\\DataGriedDoctor2HW\\DataGriedDoctor2HW.csproj": {}
+    "D:\\github\\DoctorDataGriedHW\\DataGriedDoctor2HW\\DataGriedDoctor2HW.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Denis\\Desktop\\Новая папка C#\\DataGriedDoctor2HW\\DataGriedDoctor2HW\\DataGriedDoctor2HW.csproj": {
+    "D:\\github\\DoctorDataGriedHW\\DataGriedDoctor2HW\\DataGriedDoctor2HW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Denis\\Desktop\\Новая папка C#\\DataGriedDoctor2HW\\DataGriedDoctor2HW\\DataGriedDoctor2HW.csproj",
+        "projectUniqueName": "D:\\github\\DoctorDataGriedHW\\DataGriedDoctor2HW\\DataGriedDoctor2HW.csproj",
         "projectName": "DataGriedDoctor2HW",
-        "projectPath": "C:\\Users\\Denis\\Desktop\\Новая папка C#\\DataGriedDoctor2HW\\DataGriedDoctor2HW\\DataGriedDoctor2HW.csproj",
+        "projectPath": "D:\\github\\DoctorDataGriedHW\\DataGriedDoctor2HW\\DataGriedDoctor2HW.csproj",
         "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Denis\\Desktop\\Новая папка C#\\DataGriedDoctor2HW\\DataGriedDoctor2HW\\obj\\",
+        "outputPath": "D:\\github\\DoctorDataGriedHW\\DataGriedDoctor2HW\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

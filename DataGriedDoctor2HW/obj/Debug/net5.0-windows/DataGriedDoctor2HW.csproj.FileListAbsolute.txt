@@ -38,3 +38,43 @@ C:\Users\Denis\Desktop\Новая папка C#\DataGriedDoctor2HW\DataGriedDoct
 C:\Users\Denis\Desktop\Новая папка C#\DataGriedDoctor2HW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\Denis\Desktop\Новая папка C#\DataGriedDoctor2HW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
 C:\Users\Denis\Desktop\Новая папка C#\DataGriedDoctor2HW\DataGriedDoctor2HW\obj\Debug\net5.0-windows\DataGriedDoctor2HW.SearchForm.resources
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\DataGriedDoctor2HW.exe
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\dll\DoctorDataGried.DAL.dll
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\DataGriedDoctor2HW.deps.json
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\DataGriedDoctor2HW.runtimeconfig.json
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\DataGriedDoctor2HW.runtimeconfig.dev.json
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\DataGriedDoctor2HW.dll
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\ref\DataGriedDoctor2HW.dll
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\DataGriedDoctor2HW.pdb
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\Humanizer.dll
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\Npgsql.dll
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\bin\Debug\net5.0-windows\DoctorDataGried.DAL.dll
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\obj\Debug\net5.0-windows\DataGriedDoctor2HW.csprojAssemblyReference.cache
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\obj\Debug\net5.0-windows\DataGriedDoctor2HW.MainForm.resources
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\obj\Debug\net5.0-windows\DataGriedDoctor2HW.SearchForm.resources
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\obj\Debug\net5.0-windows\DataGriedDoctor2HW.csproj.GenerateResource.cache
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\obj\Debug\net5.0-windows\DataGriedDoctor2HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\obj\Debug\net5.0-windows\DataGriedDoctor2HW.AssemblyInfoInputs.cache
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\obj\Debug\net5.0-windows\DataGriedDoctor2HW.AssemblyInfo.cs
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\obj\Debug\net5.0-windows\DataGriedDoctor2HW.csproj.CoreCompileInputs.cache
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\obj\Debug\net5.0-windows\DataGriedDoctor2HW.csproj.CopyComplete
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\obj\Debug\net5.0-windows\DataGriedDoctor2HW.dll
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\obj\Debug\net5.0-windows\ref\DataGriedDoctor2HW.dll
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\obj\Debug\net5.0-windows\DataGriedDoctor2HW.pdb
+D:\github\DoctorDataGriedHW\DataGriedDoctor2HW\obj\Debug\net5.0-windows\DataGriedDoctor2HW.genruntimeconfig.cache

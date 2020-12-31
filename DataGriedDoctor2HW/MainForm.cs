@@ -103,7 +103,7 @@ namespace DataGriedDoctor2HW
                     linkFirst.Text = "H";
                 }
                 linkSecond.Text = ((doctorScrollBar.Value / 9)+1).ToString();
-                if ((doctorScrollBar.Value / 9)+9 < MaxLength)
+                if ((doctorScrollBar.Value / 9)+1 < MaxLength)
                 {
                     linkLast.Text = ((doctorScrollBar.Value / 9) + 2).ToString();
                 }
